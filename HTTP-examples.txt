@@ -1,0 +1,30 @@
+POST 
+
+{
+        "name" : "Felipe",
+        "old" : "22",
+        "email" : "felipe.carreira@hotmail.com"
+}
+
+___________________________________________________
+GET
+
+{
+        "email" : "felipe.carreira@hotmail.com"
+}
+
+___________________________________________________
+PUT
+
+{
+        "name" : "Felipe",
+        "old" : "22",
+        "email" : "felipe.carreira@hotmail.com"
+}
+
+___________________________________________________
+DELETE
+
+{
+        "email" : "felipe.carreira@hotmail.com"
+}
